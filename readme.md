@@ -4,4 +4,4 @@ Experimentos com Java.
 
 ## Links
 
-[Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com)
+[Excelsior JET](https://www.excelsiorjet.com). Java Virtual Machine (JVM) and Native Code Compiler
