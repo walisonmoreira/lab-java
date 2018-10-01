@@ -16,3 +16,6 @@ Experimentos com Java.
 ## ToDo
 
 * Experimentar esse archetype Maven com exemplos de Java e JavaScript na GraalVM. [Graal JS Archetype](https://github.com/graalvm/graal-js-archetype).
+* Fazer lab para o [Ebean ORM for Java/Kotlin](http://ebean-orm.github.io).
+* Fazer lab para o [ActFramework - Enterprise grade. Half the code.](http://actframework.org).
+* Fazer lab para o [Light4J](https://github.com/networknt/light-4j).
